@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="egg" size="1.000000 1.000000" />
+    <ImageTarget name="chicken" size="1.000000 1.000000" />
+    <ImageTarget name="fried" size="1.000000 0.666667" />
+    <ImageTarget name="whole" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>
